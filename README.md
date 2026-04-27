@@ -6,6 +6,7 @@ A simple web page with a cookie that you can click to increase a counter.
 - A big cookie in the middle of the screen.
 - A click counter that increments every time you click the cookie.
 - **Persistence**: Your click count is saved in a browser cookie and will persist even if you reload the page.
+- **Client-side Protection**: Basic measures to discourage tampering by disabling right-click and common developer tool shortcuts.
 - Simple and clean UI.
 
 ## File Structure
